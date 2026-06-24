@@ -1,4 +1,4 @@
-package com.example.ecommerce.backend;
+package com.ecommerce.backend;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

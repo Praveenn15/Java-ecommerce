@@ -1,4 +1,4 @@
-package com.example.ecommerce.backend;
+package com.ecommerce.backend;
 import jakarta.persistence.*;
 import lombok.Data;
 
